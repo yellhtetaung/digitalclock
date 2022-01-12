@@ -59,8 +59,11 @@ h1{
 
     animation: textColor 5s linear infinite;
 }
-.wrapper{
+.container{
+    border: 3px solid #00d5ff;
     border-radius: 10px;
+
+    padding: 20px 30px;
 
     display: flex;
     justify-content: center;
